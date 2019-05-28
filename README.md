@@ -10,13 +10,19 @@ This repo is dedicated to write solver algorithms for all the games. You can con
 Original Games can be found on this link
 [Download here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 
-#How to Contribute
+#How to Contribute 
+<br/>
 1)Add the folder having name (puzzle name with your Github username)
+<br/>
 e.g. johndoe-minesweeper 
+<br/>
 Make pull request
+<br/>
 2)Add your name to the list of Contributors
+<br/>
 Make another pull request
 
 
 #List of Contributors
-[1.Mayur Rahangdale](https://github.com/mayurcybercz)
+<br/>
+[1.Mayur Rahangdale](https://github.com/mayurcybercz)<br/>
