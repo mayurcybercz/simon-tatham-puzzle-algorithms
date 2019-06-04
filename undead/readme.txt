@@ -1,0 +1,1 @@
+Input format: mxm:G,V,Z:aRLLLaReLc:4030021203100131
